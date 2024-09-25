@@ -7,3 +7,7 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 - Ingles B2
 - Francés B2
 - Español C2
+## Skills
+- Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
+## Hobbies
+- Dancing: ...
